@@ -1,0 +1,90 @@
+[
+    {
+        "model": "main.route",
+        "pk": 1,
+        "fields": {
+            "bus_id": 1,
+            "stop_id": 2,
+            "arrival_time": "06:00:00",
+            "departure_time":"06:15:00",
+            "order_number": 1
+        }
+    },
+    {
+        "model": "main.route",
+        "pk": 2,
+        "fields": {
+            "bus_id": 1,
+            "stop_id": 3,
+            "arrival_time": "07:00:00",
+            "departure_time":"07:15:00",
+            "order_number": 2
+        }
+    },
+    {
+        "model": "main.route",
+        "pk": 3,
+        "fields": {
+            "bus_id": 1,
+            "stop_id": 4,
+            "arrival_time": "08:00:00",
+            "departure_time":"08:15:00",
+            "order_number": 3
+        }
+    },
+    {
+        "model": "main.route",
+        "pk": 4,
+        "fields": {
+            "bus_id": 1,
+            "stop_id": 5,
+            "arrival_time": "09:00:00",
+            "departure_time":"09:15:00",
+            "order_number": 4
+        }
+    },
+    {
+        "model": "main.route",
+        "pk": 5,
+        "fields": {
+            "bus_id": 1,
+            "stop_id": 6,
+            "arrival_time": "10:00:00",
+            "departure_time":"10:15:00",
+            "order_number": 5
+        }
+    },
+    {
+        "model": "main.route",
+        "pk": 6,
+        "fields": {
+            "bus_id": 1,
+            "stop_id": 14,
+            "arrival_time": "16:00:00",
+            "departure_time":"16:15:00",
+            "order_number": 6
+        }
+    },
+    {
+        "model": "main.route",
+        "pk": 7,
+        "fields": {
+            "bus_id": 2,
+            "stop_id": 1,
+            "arrival_time": "05:00:00",
+            "departure_time":"05:15:00",
+            "order_number": 1
+        }
+    },
+    {
+        "model": "main.route",
+        "pk": 8,
+        "fields": {
+            "bus_id": 2,
+            "stop_id": 2,
+            "arrival_time": "06:00:00",
+            "departure_time":"06:15:00",
+            "order_number": 2
+        }
+    }
+]

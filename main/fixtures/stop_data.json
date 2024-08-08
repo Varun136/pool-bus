@@ -1,0 +1,128 @@
+[
+    {
+        "model": "main.stop",
+        "pk": 1,
+        "fields": {
+            "name": "Kasargod",
+            "latitude": "12.4984",
+            "longitude": "74.9896"
+        }
+    },
+    {
+        "model": "main.stop",
+        "pk": 2,
+        "fields": {
+            "name": "Kannur",
+            "latitude": "11.8745",
+            "longitude": "75.3704"
+        }
+    },
+    {
+        "model": "main.stop",
+        "pk": 3,
+        "fields": {
+            "name": "Wayanad",
+            "latitude": "11.6854",
+            "longitude": "76.1320"
+        }
+    },
+    {
+        "model": "main.stop",
+        "pk": 4,
+        "fields": {
+            "name": "Kozhikode",
+            "latitude": "11.2588",
+            "longitude": "75.7804"
+        }
+    },
+    {
+        "model": "main.stop",
+        "pk": 5,
+        "fields": {
+            "name": "Malappuram",
+            "latitude": "11.0733",
+            "longitude": "76.0740"
+        }
+    },
+    {
+        "model": "main.stop",
+        "pk": 6,
+        "fields": {
+            "name": "Palakkad",
+            "latitude": "10.7867",
+            "longitude": "76.6548"
+        }
+    },
+    {
+        "model": "main.stop",
+        "pk": 7,
+        "fields": {
+            "name": "Thrissur",
+            "latitude": "10.5276",
+            "longitude": "76.2144"
+        }
+    },
+    {
+        "model": "main.stop",
+        "pk": 8,
+        "fields": {
+            "name": "Ernakulam",
+            "latitude": "9.9816",
+            "longitude": "76.2999"
+        }
+    },
+    {
+        "model": "main.stop",
+        "pk": 9,
+        "fields": {
+            "name": "Idukki",
+            "latitude": "9.9187",
+            "longitude": "77.1025"
+        }
+    },
+    {
+        "model": "main.stop",
+        "pk": 10,
+        "fields": {
+            "name": "Kottayam",
+            "latitude": "9.5916",
+            "longitude": "76.5222"
+        }
+    },
+    {
+        "model": "main.stop",
+        "pk": 11,
+        "fields": {
+            "name": "Alappuzha",
+            "latitude": "9.4981",
+            "longitude": "76.3388"
+        }
+    },
+    {
+        "model": "main.stop",
+        "pk": 12,
+        "fields": {
+            "name": "Pathanamthitta",
+            "latitude": "9.2647",
+            "longitude": "76.7872"
+        }
+    },
+    {
+        "model": "main.stop",
+        "pk": 13,
+        "fields": {
+            "name": "Kollam",
+            "latitude": "8.8932",
+            "longitude": "76.6141"
+        }
+    },
+    {
+        "model": "main.stop",
+        "pk": 14,
+        "fields": {
+            "name": "Thiruvananthapuram",
+            "latitude": "8.5241",
+            "longitude": "76.9366"
+        }
+    }
+]

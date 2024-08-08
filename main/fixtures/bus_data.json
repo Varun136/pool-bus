@@ -1,0 +1,58 @@
+[
+  {
+    "model": "main.bus",
+    "pk": 1,
+    "fields": {
+      "name": "CNR_TVM Express",
+      "register_number": "KL13B1000"
+    }
+  },
+  {
+    "model": "main.bus",
+    "pk": 2,
+    "fields": {
+      "name": "KSR_CNR Express",
+      "register_number": "KL14B1001"
+    }
+  },
+  {
+    "model": "main.bus",
+    "pk": 3,
+    "fields": {
+      "name": "CLT_ERN Express",
+      "register_number": "KL11B1002"
+    }
+  },
+  {
+    "model": "main.bus",
+    "pk": 4,
+    "fields": {
+      "name": "TSR_KSR Express",
+      "register_number": "KL08B1003"
+    }
+  },
+  {
+    "model": "main.bus",
+    "pk": 5,
+    "fields": {
+      "name": "TVM_ALP Express",
+      "register_number": "KL01B1004"
+    }
+  },
+  {
+    "model": "main.bus",
+    "pk": 6,
+    "fields": {
+      "name": "IDK_PLK Express",
+      "register_number": "KL06B1005"
+    }
+  },
+  {
+    "model": "main.bus",
+    "pk": 7,
+    "fields": {
+      "name": "KSR_KTM Express",
+      "register_number": "KL14B1006"
+    }
+  }
+]
